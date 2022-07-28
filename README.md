@@ -29,3 +29,5 @@ int main(){
 
 ```
 
+[reverse first and last number](./16.cpp)
+
